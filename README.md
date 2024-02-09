@@ -1,14 +1,6 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+Untuk Ayang Priliaaa <3
 
-
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
-# Author
+Makasih Buat
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
 - Index Code : Septian Dwi Cahyo (@Septiandwica)
-
-Thanks to codepan and mdusmanansari
+- Lirik : https://github.com/bagindaharahap/bersamamu
